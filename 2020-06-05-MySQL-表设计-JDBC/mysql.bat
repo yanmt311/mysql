@@ -1,0 +1,1 @@
+@java -cp "E:\比特科技\课程\JavaWeb\2020年-火箭班2\2020-06-05-MySQL-表设计-JDBC\out\production\2020-06-05-MySQL-表设计-JDBC;E:\比特科技\课程\JavaWeb\2020年-火箭班2\2020-06-05-MySQL-表设计-JDBC\lib\mysql-connector-java-5.1.47.jar" com.peixinchen.MySQLClient %*
